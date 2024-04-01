@@ -1,0 +1,1 @@
+This repository supplies a simple custom $\LaTeX$ class for writing letters on Middlebury letterhead. The primary fields can be edited inside the `middletter.cls` file. 

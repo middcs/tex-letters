@@ -17,7 +17,7 @@
 \RequirePackage{amsmath}
 \RequirePackage{amssymb}
 
-\graphicspath{{src}{../src}}
+\graphicspath{{assets}{../assets}}
 
 \newcommand{\midd@fromaddr}{short}
 
